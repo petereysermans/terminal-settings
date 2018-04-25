@@ -1,0 +1,1 @@
+alias fzfv="vim (fzf)"
