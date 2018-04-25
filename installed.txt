@@ -3,6 +3,7 @@ iTerm2
 fish
 fisherman - https://github.com/fisherman/fisherman
 tmux
+https://github.com/junegunn/fzf
 
 Fisherman plugins
 Z - https://github.com/fisherman/z
