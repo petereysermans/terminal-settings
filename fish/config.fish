@@ -1,5 +1,5 @@
 # GIT aliases
-alias gac="git add .; and git commit -v"
+alias gac="git add -A; and git commit -v"
 alias gs="git status"
 
 alias gp="git push"

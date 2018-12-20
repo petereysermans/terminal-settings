@@ -16,5 +16,16 @@ cmderr=cd /d "%CMDER_ROOT%"
 
 ;= GIT aliases
 
-gac= git add . git commit -v
+gac=git add -A && git commit -v
 gs=git status
+
+gp=git push
+gpo=git push origin
+gpom=git push origin master
+
+gl=git pull
+glo=git pull origin
+glom=git pull origin master
+
+gb=git branch
+gc=git checkout
