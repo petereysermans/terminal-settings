@@ -1,1 +1,0 @@
-alias work="cd ~/Projects"
