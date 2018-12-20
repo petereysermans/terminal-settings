@@ -29,3 +29,5 @@ glom=git pull origin master
 
 gb=git branch
 gc=git checkout
+
+work=cd C:\Projects

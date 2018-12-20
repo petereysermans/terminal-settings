@@ -12,3 +12,5 @@ alias glom="git pull origin master"
 
 alias gb="git branch"
 alias gc="git checkout"
+
+alias work="cd ~/Projects"
