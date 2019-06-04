@@ -1,0 +1,2 @@
+- z <part of directory>: jump to a certain directory, learns from the directories that have been visited. If the directory has not been visited before, it will not be known by `z`.
+- Ctrl + T: Start `fzf` to search for a specific file

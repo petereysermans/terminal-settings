@@ -2,9 +2,9 @@
 alias gac="git add -A; and git commit -v"
 alias gs="git status"
 
-alias gp="git push"
-alias gpo="git push origin"
-alias gpom="git push origin master"
+alias gp="git push --tags"
+alias gpo="git push --tags origin"
+alias gpom="git push --tags origin master"
 
 alias gl="git pull"
 alias glo="git pull origin"
