@@ -21,3 +21,9 @@ fisher add jethrokuan/z
 
 echo Installing fzf via fisher
 fisher add jethrokuan/fzf
+
+echo Installing tmux
+brew install tmux
+
+echo Creating symlinks for config files
+ln -s ~/Projects/terminal-settings/tmux/.tmux.conf ~/.tmux.conf
