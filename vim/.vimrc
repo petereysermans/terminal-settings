@@ -6,3 +6,6 @@ nnoremap <Down> :echo "Use j"<CR>
 
 " global yanking with the OS clipboard
 set clipboard=unnamed
+
+"custom commands
+com! FormatJSON %!python -m json.tool

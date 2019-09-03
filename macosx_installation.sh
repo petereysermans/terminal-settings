@@ -25,5 +25,9 @@ fisher add jethrokuan/fzf
 echo Installing tmux
 brew install tmux
 
+echo Installing vim
+brew install vim
+
 echo Creating symlinks for config files
 ln -s ~/Projects/terminal-settings/tmux/.tmux.conf ~/.tmux.conf
+ln -s ~/Projects/terminal-settings/vim/.vimrc ~/.vimrc
