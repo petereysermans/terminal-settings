@@ -13,6 +13,9 @@ brew install fzf
 echo Installing bat
 brew install bat
 
+echo Installing fuck
+brew install thefuck
+
 echo Installing fisher
 curl https://git.io/fisher --create-dirs -sLo ~/.config/fish/functions/fisher.fish
 
